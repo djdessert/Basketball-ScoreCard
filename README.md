@@ -1,2 +1,4 @@
 # Basketball-ScoreCard
  
+This app allows a user to keep track of points of two basketball teams playing each other. This initial mod does not include a reset button for the game, simply
+reload the app for a new score.
