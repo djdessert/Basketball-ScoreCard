@@ -1,0 +1,105 @@
+#plus1hmbtn {
+    position: absolute;
+    width: 30px;
+    height: 25.77px;
+    left: 65px;
+    top: 280px;
+
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    text-align: center;
+
+    color: #9AABD8;
+    }
+
+#plus2hmbtn {
+    position: absolute;
+    width: 30px;
+    height: 25.77px;
+    left: 120px;
+    top: 280px;
+
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    text-align: center;
+
+    color: #9AABD8;
+    }
+
+#plus3hmbtn {
+    position: absolute;
+    width: 30px;
+    height: 25.77px;
+    left: 180px;
+    top: 280px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    text-align: center;
+    color: #9AABD8;
+    }
+
+#plus1gstbtn {
+    position: absolute;
+    width: 30px;
+    height: 25.77px;
+    left: 344px;
+    top: 280px;
+
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    text-align: center;
+
+    color: #9AABD8;
+    }    
+
+#plus2gstbtn {
+    position: absolute;
+    width: 30px;
+    height: 25.77px;
+    left: 398px;
+    top: 280px;
+
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    text-align: center;
+
+    color: #9AABD8;
+    }
+
+#plus3gstbtn {
+    position: absolute;
+    width: 30px;
+    height: 25.77px;
+    left: 454px;
+    top: 280px;
+
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 155% */
+    text-align: center;
+
+    color: #9AABD8;
+    }
